@@ -1,43 +1,35 @@
 # Scientific-Writing-Results
 
-------------------------
+* ger: Germany
+* aus: Austria
+* swi: Switzerland
 
-1_ssr_aus_chi2.png
+==================
+## Granger Causality from #Graduates to #Businesses
 
-1_ssr_aus_f.png
+* 1_ssr_aus_chi2.png
+* 1_ssr_aus_f.png
+* 1_ssr_ger_chi2.png
+* 1_ssr_ger_f.png
+* 1_ssr_swi_chi2.png
+* 1_ssr_swi_f.png
 
-1_ssr_ger_chi2.png
+==================
+## Granger Causality from #Businesses to #Graduates 
 
-1_ssr_ger_f.png
+* 2_ssr_aus_chi2.png
+* 2_ssr_aus_f.png
+* 2_ssr_ger_chi2.png
+* 2_ssr_ger_f.png
+* 2_ssr_swi_chi2.png
+* 2_ssr_swi_f.png
 
-1_ssr_swi_chi2.png
+==================
+## Correlation 
 
-1_ssr_swi_f.png
-
-------------------------
-
-2_ssr_aus_chi2.png
-
-2_ssr_aus_f.png
-
-2_ssr_ger_chi2.png
-
-2_ssr_ger_f.png
-
-2_ssr_swi_chi2.png
-
-2_ssr_swi_f.png
-
-------------------------
-
-co_aus.png
-
-co_aus_error.png
-
-co_ger.png
-
-co_ger_error.png
-
-co_swi.png
-
-co_swi_error.png
+* co_aus.png
+* co_aus_error.png
+* co_ger.png
+* co_ger_error.png
+* co_swi.png
+* co_swi_error.png
