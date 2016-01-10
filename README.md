@@ -1,5 +1,9 @@
 # Scientific-Writing-Results
 
+* ger: Germany
+* aus: Austria
+* swi: Switzerland
+
 ==================
 ## Granger Causality from #Graduates to #Businesses
 
